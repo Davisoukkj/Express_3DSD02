@@ -12,3 +12,23 @@
   justify-content: space-around;
   align-items: center;
 }
+
+.menu img {
+  width: 80px;
+  border-radius: 80%;
+}
+
+ul a {
+  color: rgb(68, 0, 228);
+  margin: 0 10px;
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
+.bt-logar {
+  background-color: rgb(19, 138, 243);
+  padding: 5px;
+  border-radius: 10px;
+  color: white;
+}
